@@ -1,0 +1,12 @@
+#pip install -r requirements.txt
+#streamlit run voicedallE.py
+streamlit==1.16.0
+audio-recorder-streamlit==0.0.8
+audiorecorder==0.1
+whisper==1.1.10
+requests==2.26.0
+Pillow==8.3.2
+sounddevice==0.4.6
+sympy==1.12
+streamlit-audiorec==0.1.3
+streamlit-audiorecorder==0.0.4
